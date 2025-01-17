@@ -6,7 +6,7 @@ Currently, adding a product to the *Open Food Facts* database requires filling o
 
 As a first step, **you are assigned to the project to** ***clean*** **and** ***explore*** **the data internally in order to assess the feasibility of this application idea from** ***Santé publique France.***
 
-**Skills involved**:
+**Key skills involved**:
 
 - Data cleaning
 
