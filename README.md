@@ -4,7 +4,7 @@ Currently, adding a product to the *Open Food Facts* database requires filling o
 
 *Santé publique France* has entrusted your company with creating a suggestion or auto-completion system to help users fill in the database more efficiently.
 
-As a first step, **you are assigned to the project to clean and explore the data internally in order to assess the feasibility of this application idea from Santé publique France.**
+As a first step, **you are assigned to the project to** ***clean*** **and** ***explore*** **the data internally in order to assess the feasibility of this application idea from** ***Santé publique France.***
 
 **Skills involved**:
 
