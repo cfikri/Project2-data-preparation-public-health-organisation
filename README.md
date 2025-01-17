@@ -9,7 +9,5 @@ As a first step, **you are assigned to the project to** ***clean*** **and** ***e
 **Key skills involved**:
 
 - Data cleaning
-
 - Univariate and bivariate data analysis
-
 - Exploratory data analysis
